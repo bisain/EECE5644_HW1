@@ -1,3 +1,3 @@
 # EECE5644_HW1
 
-This is a test. Hello, World!
+Contains my work for homework 1.
